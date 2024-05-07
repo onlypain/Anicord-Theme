@@ -4444,7 +4444,7 @@ body {
   background-color: var(--server-folder-color);
 }
 
-[style*="background-color: rgba(88, 101, 242, 0.4)"].folderIconWrapper__11165 {
+[style*="background-color: rgba(255, 182, 193, 0.4)"].folderIconWrapper__11165 {
   background-color: hsla(var(--accent-hsl), 0.4) !important;
 }
 
